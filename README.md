@@ -1,15 +1,26 @@
 # critical-mass-hiring-challenge
 My submission for the Critical Mass hiring challenge.
 
-## Work / Project Examples
+### Work / Project Examples
 
+- Personal Website (chinmaypatel.ca)
+  - https://github.com/chinmaycp/chinmaypatel.ca
+- Search Me, a Google Search clone powered by Wikipedia API
+  - https://github.com/chinmaycp/search-me
+- Kothar, a food inventory management app
+  - https://github.com/patelro/kothar
 
-## Inspiration
+### Inspiration
 
+- 30 Seconds of Code
+  - https://www.30secondsofcode.org/
+- Qiskit, an open-source SDK for quantum computing/development
+  - https://qiskit.org/
 
-## Focus
+### Focus
 
+Answer
 
-## Code Challenge
+### Code Challenge
 
 https://codesandbox.io/s/2022-internship-exercise-menu-forked-20gy3j
