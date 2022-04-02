@@ -1,5 +1,5 @@
-# critical-mass-hiring-challenge
-My submission for the Critical Mass hiring challenge.
+# Critical Mass 2022 Hiring/Coding Challenge
+My submission for the Critical Mass hiring/coding challenge.
 
 ### Work / Project Examples
 
