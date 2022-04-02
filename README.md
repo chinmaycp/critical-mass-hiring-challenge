@@ -19,7 +19,10 @@ My submission for the Critical Mass hiring/coding challenge.
 
 ### Focus
 
-Answer
+If given the opportunity to build/learn anything, during the internship, I would love to do three things:
+- Build out a full-stack web application along with a corresponding mobile application, using a framework such as React Native
+- Learn proficient testing methods for web/mobile applications
+- Learn brand, design, and data strategies, to provide a seamless user/customer experience
 
 ### Code Challenge
 
